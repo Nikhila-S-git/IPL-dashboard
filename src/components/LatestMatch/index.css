@@ -1,0 +1,19 @@
+/* Write your CSS here */
+.latestContainer {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  background-color: #0f172a;
+  color: white;
+  padding: 20px;
+  margin: 20px;
+  height: 300px;
+  margin-top: 10px;
+  list-style-type: none;
+}
+
+.team-logo {
+  height: 90px;
+  width: 90px;
+}

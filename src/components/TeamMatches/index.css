@@ -1,0 +1,30 @@
+/* Write your CSS here */
+.team-banner {
+  height: 40vh;
+  background-size: cover;
+  margin-top: 10px;
+  width: 100vw;
+}
+.background-conatiner {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: cenetr;
+  padding: 20px;
+  flex-wrap: wrap;
+  color: white;
+}
+.bottom-conatiner {
+  display: flex;
+  flex-direction: row;
+  width: 100vw;
+  flex-wrap: wrap;
+}
+
+.RCB {
+  background-image: linear-gradient(to top, #a4261d, #1e293b);
+}
+
+.KKR {
+  background-image: linear-gradient(to top, #4f5db0, #0f172a);
+}

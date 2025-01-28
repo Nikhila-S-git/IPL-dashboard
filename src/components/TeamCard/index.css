@@ -1,0 +1,23 @@
+/* Write your CSS here */
+.team-logo {
+  height: 80px;
+  width: 80px;
+  margin-right: 10px;
+}
+
+.card-container {
+  background-color: #475569;
+  padding: 10px;
+  border-radius: 10px;
+  list-style-type: none;
+  color: white;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  margin: 10px;
+  width: 300px;
+}
+
+.para {
+  text-decoration: underline #475569;
+}

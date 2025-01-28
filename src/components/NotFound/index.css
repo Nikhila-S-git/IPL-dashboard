@@ -1,0 +1,14 @@
+/* Write your CSS here */
+.heading {
+  color: white;
+}
+
+.not-container {
+  background-image: url('https://assets.ccbp.in/frontend/react-js/ipl-dashboard-sm-bg.png');
+  background-size: cover;
+  height: 100vh;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
