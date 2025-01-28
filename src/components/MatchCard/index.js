@@ -2,12 +2,8 @@ import './index.css'
 
 const Matchcard = props => {
   const {matchcardDetails} = props
-  const {
-    competing_team_logo,
-    competing_team,
-    matchStatus,
-    result,
-  } = matchcardDetails
+  const {competing_team_logo, competing_team, matchStatus, result} =
+    matchcardDetails
   return (
     <li className="container">
       <img

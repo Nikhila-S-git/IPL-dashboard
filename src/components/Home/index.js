@@ -26,7 +26,6 @@ class Home extends Component {
 
   render() {
     const {teamsData, isLoader} = this.state
-    console.log(teamsData)
     return (
       <div className="bg-container">
         <div className="heading-container">

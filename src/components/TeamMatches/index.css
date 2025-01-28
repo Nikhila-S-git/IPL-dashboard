@@ -16,7 +16,6 @@
 }
 .bottom-conatiner {
   display: flex;
-  flex-direction: row;
   width: 100vw;
   flex-wrap: wrap;
 }
@@ -27,4 +26,17 @@
 
 .KKR {
   background-image: linear-gradient(to top, #4f5db0, #0f172a);
+}
+
+.backBtn {
+  border: none;
+  background-color: transparent;
+  display: flex;
+  align-items: center;
+  align-self: flex-start;
+  cursor: pointer;
+}
+
+.pieChartAndMatchDataContainer {
+  display: flex;
 }
